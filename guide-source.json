@@ -1,0 +1,317 @@
+[
+  [
+    "What Was Your Goal For This Call?",
+    "Solve an Issue",
+    "An issue (Immediate Blocker) was reported; you are calling to resolve it."
+  ],
+  [
+    "What Was Your Goal For This Call?",
+    "Activate a Product",
+    "The goal for the call is to active a campaign."
+  ],
+  [
+    "What Was Your Goal For This Call?",
+    "Discover Growth Opportunity",
+    "Discovery Call; the goal is to uncover the merchant's goals but not to pitch yet."
+  ],
+  [
+    "What Was Your Goal For This Call?",
+    "Improve Menu",
+    "Obtain photos and video permissions."
+  ],
+  [
+    "What Was Your Goal For This Call?",
+    "Provide Active Campaign Visibility",
+    "A Campaign is already active; called to provide visibility about ROI. Inform about Co-funding Activation or Accepted Co-funding Status."
+  ],
+  [
+    "What Was Your Goal For This Call?",
+    "Scheduled Check In",
+    "Regular follow up scheduled; no specific topic to check (For example: You offered to follow up every 15 days; already covered Menu, and Marketing on previous calls)"
+  ],
+  [
+    "What Was Your Goal For This Call?",
+    "Requested Call or Returning Missed Call",
+    "The merchant requestedto be called or you are returning a missed call."
+  ],
+  [
+    "Priority For This Call",
+    "P1 - Support - Immediate Blocker",
+    "For mixed calls, select the priority to advance: Support → Marketing → Optimization → No Growth Opportunity."
+  ],
+  [
+    "Priority For This Call",
+    "P2 - Marketing - Growth Opportunity",
+    "For mixed calls, select the priority to advance: Support → Marketing → Optimization → No Growth Opportunity."
+  ],
+  [
+    "Priority For This Call",
+    "P3 - Optimization - Improve Setup",
+    "For mixed calls, select the priority to advance: Support → Marketing → Optimization → No Growth Opportunity."
+  ],
+  [
+    "Priority For This Call",
+    "P4 - No Growth Opportunity",
+    "Select \"No Growth Opportunity\" first only when Marketing and Menu was already covered on previous interactions and there is nothing else to cover about it."
+  ],
+  [
+    "Growth Opportunity Identified or Discussed",
+    "Yes",
+    "Select \"Yes\" if you discussed about a growth opportunity (Menu, Video, MXP Insights; Marketing, , Etc) or if the merchant provided their goals proactively or through discovery."
+  ],
+  [
+    "Growth Opportunity Identified or Discussed",
+    "No",
+    ""
+  ],
+  [
+    "MXP AI Assistant Education",
+    "MX Educated During The Call",
+    "The merchant was educated during the call about MXP AI Assistant."
+  ],
+  [
+    "MXP AI Assistant Education",
+    "MX Was Educated On A Previous Interaction",
+    "No need to educate the MX since they were previously educated."
+  ],
+  [
+    "MXP AI Assistant Education",
+    "Failed To Educate",
+    "Forgot to mention MXP AI Assistant"
+  ],
+  [
+    "MXP AI Assistant Education",
+    "Not Applicable",
+    "Did not speak with the DM; the MX did not have time; MX hunged up; MX did not have access to the MXP; etc"
+  ],
+  [
+    "If Marketing Was Not Discussed, Why?",
+    "Marketing Was Discussed",
+    "Marketing Was Discussed"
+  ],
+  [
+    "If Marketing Was Not Discussed, Why?",
+    "Not Relevant Today",
+    "This was a \"Discover Growth Opportunity\" call or the merchant already has A&Ps active."
+  ],
+  [
+    "If Marketing Was Not Discussed, Why?",
+    "Support Needed First",
+    "This was a P1 call; an Immediate Blocker needs to be fixed first (MXP Login Issue, Tablet Issue, Etc)"
+  ],
+  [
+    "If Marketing Was Not Discussed, Why?",
+    "Menu Help Needed First",
+    "This was a Priority 3 call; you did not talk about Marketing"
+  ],
+  [
+    "If Marketing Was Not Discussed, Why?",
+    "No Decision-Maker",
+    "The person you talked with was not the one in charge of making changes on the MXP"
+  ],
+  [
+    "If Marketing Was Not Discussed, Why?",
+    "No Portal Access",
+    "The merchant did not have access to the MXP at the moment"
+  ],
+  [
+    "If Marketing Was Not Discussed, Why?",
+    "Follow-Up Requested",
+    "Conversation was interrupted or the merchant did not have more time."
+  ],
+  [
+    "If Marketing Was Not Discussed, Why?",
+    "Merchant Declined",
+    "You identified through discovery that the merchant was not willing to use DD Marketing before even mentioning it\nThe MX had already declined marketing on a previous conversation"
+  ],
+  [
+    "Marketing Solution Discussed",
+    "Ads For Visibility",
+    "Choose the marketing solution you presented to the MX"
+  ],
+  [
+    "Marketing Solution Discussed",
+    "Promotions For Orders",
+    "Choose the marketing solution you presented to the MX"
+  ],
+  [
+    "Marketing Solution Discussed",
+    "Loyalty For Repeat Customers",
+    "Choose the marketing solution you presented to the MX"
+  ],
+  [
+    "Marketing Solution Discussed",
+    "More Than One Solution",
+    "Choose the marketing solution you presented to the MX"
+  ],
+  [
+    "Marketing Solution Discussed",
+    "No Marketing Solution Discussed",
+    "Choose if you did not present any marketing solution to the MX"
+  ],
+  [
+    "Co-Funding Status",
+    "No Co-Funding Offered",
+    "Co-funding was not a topic during this call"
+  ],
+  [
+    "Co-Funding Status",
+    "Co-Funding Offered - Denied",
+    "Co-funding was mentioned but the merchant disagreed"
+  ],
+  [
+    "Co-Funding Status",
+    "Co-Funding Offered - Negotiating",
+    "Merchant is interested about co-funding, but 60/40, 50/50 needs approval first."
+  ],
+  [
+    "Co-Funding Status",
+    "Co-Funding Offered - Accepted",
+    "Merchant accepted the co-funding option that was offered."
+  ],
+  [
+    "Co-Funding Status",
+    "Co-Funding Activated",
+    "Co-funding is already active on the merchant portal."
+  ],
+  [
+    "What Did You Do?",
+    "Resolved It",
+    "Immediate Blocker Issue was resolved during this call."
+  ],
+  [
+    "What Did You Do?",
+    "Created or Escalated Case",
+    "Escalated a case due to an Immediate Blocker is affecting the MX."
+  ],
+  [
+    "What Did You Do?",
+    "Helped With Activation",
+    "Activated a campaign. Modified a campaign."
+  ],
+  [
+    "What Did You Do?",
+    "Presented Marketing Option",
+    "Presented marketing but did not activate any campaign yet."
+  ],
+  [
+    "What Did You Do?",
+    "Updated or Recommended Menu Change",
+    "Talked about menu but not about marketing."
+  ],
+  [
+    "What Did You Do?",
+    "Scheduled Follow-Up",
+    "Merchant did not have time to speak or was not available."
+  ],
+  [
+    "What Did You Do?",
+    "No Action Required",
+    "No action required since it was a regular check in, and everything is working good.\nMX hunged up."
+  ],
+  [
+    "Result",
+    "Updated or Activated Campaign",
+    "A Campaign was activated during this call; a campaign was updated during this call."
+  ],
+  [
+    "Result",
+    "Merchant Will Complete Action",
+    "A Campaign was pitched; merchant agreed with activation but they will activate from their end later."
+  ],
+  [
+    "Result",
+    "Merchant Declined",
+    "A Campaign was pitched; merchant disagreed; objections were not overcame."
+  ],
+  [
+    "Result",
+    "Discussed Marketing",
+    "Presented marketing but did not encourage the merchant to take action."
+  ],
+  [
+    "Result",
+    "Follow-Up Needed (Identified Marketing Need)",
+    "Growth opportunity was identified but no solution was presented; a follow up was offered to work on a strategy."
+  ],
+  [
+    "Result",
+    "Presented Solution (No Marketing)",
+    "Presented a solution to a Priority 1 or Priority 3 call."
+  ],
+  [
+    "Result",
+    "Follow-Up Needed (No Marketing)",
+    "A Follow up to resolve a Priority 1 or Priority 3 call was offered."
+  ],
+  [
+    "Result",
+    "Could Not Complete",
+    "Merchant hunged up; merchant did not have time to speak, did not speak to the DM."
+  ],
+  [
+    "Result",
+    "Not Applicable",
+    "There was nothing to resolve; just regular check in."
+  ],
+  [
+    "Did You Achieve Your Goal",
+    "Yes",
+    "The goal was achieved according to the priority of the call."
+  ],
+  [
+    "Did You Achieve Your Goal",
+    "Partially",
+    "The goal was partially achieved (Ex: Got photos permission but not videos permission)."
+  ],
+  [
+    "Did You Achieve Your Goal",
+    "No",
+    "The goal was NOT achived."
+  ],
+  [
+    "Did You Achieve Your Goal",
+    "Follow-Up Needed",
+    "It is NOT possible to achieve the goal on this call; a follow up is required. (Ex: No access to the MXP)"
+  ],
+  [
+    "Did You Achieve Your Goal",
+    "Not Applicable",
+    "Priority 4 call; there was no goal to achieve."
+  ],
+  [
+    "If Not Achieved, What Stopped It?",
+    "Nothing Stopped It",
+    "The Goal was achieved."
+  ],
+  [
+    "If Not Achieved, What Stopped It?",
+    "No Decision Maker",
+    "The person you talked to was not the DM."
+  ],
+  [
+    "If Not Achieved, What Stopped It?",
+    "No Portal Access or Technical Issue",
+    "The MX did not have access to the portal at the moment or a technical issue occured."
+  ],
+  [
+    "If Not Achieved, What Stopped It?",
+    "Merchant Timing",
+    "The MX did not have time to continue the conversation."
+  ],
+  [
+    "If Not Achieved, What Stopped It?",
+    "Priority Changed",
+    "My Goal for this call changed, I adjusted to the merchant's needs during the call"
+  ],
+  [
+    "If Not Achieved, What Stopped It?",
+    "Program Not Available",
+    "What the MX wants is not possible at the moment."
+  ],
+  [
+    "If Not Achieved, What Stopped It?",
+    "Other:",
+    "If you select \"Other\" you should specify what happened."
+  ]
+]
